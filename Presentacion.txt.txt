@@ -4,7 +4,7 @@ Rol: Desarrallor.
 Erny Royers De La Peña Caicedo
 Rol: Analista.
 
-Olga Piedad Manrrique Peña
+Olga Piedad Manrique Peña
 Rol: Product Owner.
 
 Ary Molina Grillo
@@ -16,7 +16,7 @@ Rol:  Scrum master.
 
 DESCRIPCION DEL PROCESO SPRINT 1
 
-Se procedio a conformar un grupo de 5 Alumnos que a su vez nos pusimos de acuerdo en realizar un encuentro virtual para presentarnos y asignar los roles a cada integrante.
+Se procedio a conformar un grupo de 5 integrantes quienes propusimos realizar un encuentro virtual para presentarnos y asignar los roles a cada integrante.
 
 Se Procede a crear un repositorio en GitHub.
 Se Procede a crear un objeto tipo archivo de texto.
